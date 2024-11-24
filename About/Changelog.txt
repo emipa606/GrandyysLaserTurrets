@@ -1,4 +1,7 @@
 # Changelog for GrandyysLaserTurrets
 
+1.5.1 - Removed old version from the preview
+
+
 1.5.0 - First publish
 

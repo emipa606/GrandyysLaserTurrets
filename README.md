@@ -1,4 +1,4 @@
-# [Grandyy's Laser Turrets (Continued)]()
+# [Grandyy's Laser Turrets (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=3371303001)
 
 ![Image](https://i.imgur.com/buuPQel.png)
 
@@ -26,4 +26,6 @@ I programmed by selectively copying vanilla codes. I only take the laser effect 
 
  
 
-[![Image](https://img.shields.io/github/v/release/emipa606/GrandyysLaserTurrets?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/) | tags: laser,  turrets
+[![Image](https://img.shields.io/github/v/release/emipa606/GrandyysLaserTurrets?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/) | tags: laser,  turrets 
+
+[![Image](https://img.shields.io/github/v/release/emipa606/GrandyysLaserTurrets?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/3371303001) | tags: laser,  turrets
