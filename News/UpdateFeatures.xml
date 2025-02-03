@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<HugsLib.UpdateFeatureDef Abstract="true" Name="GrandyysLaserTurrets_UpdateFeatureBase">
+		<modNameReadable>GrandyysLaserTurrets</modNameReadable>
+		<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3371303001</linkUrl>
+	</HugsLib.UpdateFeatureDef>
+	<HugsLib.UpdateFeatureDef ParentName="GrandyysLaserTurrets_UpdateFeatureBase">
+		<defName>GrandyysLaserTurrets_1_5_1</defName>
+		<assemblyVersion>1.5.1</assemblyVersion>
+		<content>The original version of this mod has been updated, please use it instead. This version will remain, but unlisted and will not be updated further.</content>
+	</HugsLib.UpdateFeatureDef>
+</Defs>
+

@@ -1,5 +1,8 @@
 # Changelog for GrandyysLaserTurrets
 
+1.5.2 - Last update, added end-of-life message
+
+
 1.5.1 - Removed old version from the preview
 
 
